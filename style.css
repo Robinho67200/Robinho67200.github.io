@@ -1,0 +1,27 @@
+h1,h2{
+    font-size: 30px;
+    text-align: center;
+    color: #00385b
+    }
+    
+p{
+font-size: 20px;
+text-align: center;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #ffffff;
+}
+
+img {
+    width : 300px;
+    height : 300px;
+    border-radius: 10%;
+    }
+    
+
+div {
+    display: flex;
+justify-content: center;
+}
